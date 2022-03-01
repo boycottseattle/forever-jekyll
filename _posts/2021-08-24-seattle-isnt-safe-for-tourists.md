@@ -2,6 +2,7 @@
 layout: post
 title: Seattle Isn’t Safe For Tourists
 categories: [Seattle]
+
 ---
 
 Here in the Pacific Northwest, it’s fun to be a tourist for the day in Seattle. With plenty of neighboring towns in and around the area, people come from near and far to see the sights. Whether it’s Bezos Balls, the Space Needle, Pike Place Market, Dick’s Hamburgers, Fremont, or Georgetown, the city has a great many places to explore, cuisine to enjoy, and live events to entertain. However, these venues and the city at large do not deserve your business.
