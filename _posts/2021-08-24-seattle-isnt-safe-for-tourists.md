@@ -7,6 +7,7 @@ categories: [Seattle]
 Here in the Pacific Northwest, it’s fun to be a tourist for the day in Seattle. With plenty of neighboring towns in and around the area, people come from near and far to see the sights. Whether it’s Bezos Balls, the Space Needle, Pike Place Market, Dick’s Hamburgers, Fremont, or Georgetown, the city has a great many places to explore, cuisine to enjoy, and live events to entertain. However, these venues and the city at large do not deserve your business.
 
 I started this page in response to an altercation that occurred yesterday. It was the second such time that my children and I have been endangered by the homeless. The first incident involved a homeless stalker pursuing my daughter and I through Post Alley, but perhaps that was a one off.
+<!--more-->
 
 There’s an old saying – “Fool me once, shame on you. Fool me twice, shame on me.”
 
@@ -33,4 +34,3 @@ These businesses, venues, and attractions do not deserve your business. They do 
 Be safe. Protect your family.
 
 Boycott Seattle.
-<!--more-->
