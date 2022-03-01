@@ -1,123 +1,35 @@
 ---
 layout: post
-title: Hello World
-categories: [content, demo]
+title: Seattle Isn’t Safe For Tourists
+categories: [Seattle]
 ---
 
-Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.  
-This post will demonstrate some of the more common content & elements found in posts.  
-Feel free to delete this post when you are ready to publish your first post.  
+Here in the Pacific Northwest, it’s fun to be a tourist for the day in Seattle. With plenty of neighboring towns in and around the area, people come from near and far to see the sights. Whether it’s Bezos Balls, the Space Needle, Pike Place Market, Dick’s Hamburgers, Fremont, or Georgetown, the city has a great many places to explore, cuisine to enjoy, and live events to entertain. However, these venues and the city at large do not deserve your business.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+I started this page in response to an altercation that occurred yesterday. It was the second such time that my children and I have been endangered by the homeless. The first incident involved a homeless stalker pursuing my daughter and I through Post Alley, but perhaps that was a one off.
 
-## Some great heading (h2)
+There’s an old saying – “Fool me once, shame on you. Fool me twice, shame on me.”
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-<!--more--
+Yesterday, was the second time, and my last straw. I decided to take my children to the aquarium. All was well until we headed back to our car and entered the elevator of the parking garage. Inside the elevator was a homeless man that became enraged and began to intimidate us both physically and verbally. Luckily, the doors soon opened and I was able to push my kids out the door (on the wrong floor) where we hastily made our way to the car for safety. Fortunately, he didn’t follow, and things didn’t escalate – we got lucky.
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Who’s to blame for both of these easily preventable occurrences? For one, the city and it’s crazy politics, and two, the businesses in the area. If these locales want peoples patronage, then they have a duty to protect their customers. This goes for Pike Place Market, the aquarium, and even the parking garage. What could they have done better? Let’s look at all three.
 
-## Another great heading (h2)
+## Pike Place Market
+There’s plenty of vendors and customers there – commerce aplenty. They should hire private security to insure the safety of their patrons. Many officers should be patrolling the area – the alleys, the vendors, the actual shops, the public restrooms (people live in the stalls and camp out there – god forbid you have to poop while visiting), the neighboring Victor Steinbrueck Park, etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Just how would they be able to afford all of that? Simple, supply and demand economics. There’s plenty of demand, the place is always crowded. Merchants should raise their prices on everything. People already expect touristy areas to be expensive, and they would be willing to pay more for safety. One dollar an item more on this, fifty cents on that, a quarter here and there, etc. Pass on the cost to the consumer.
 
-### Some great subheading (h3)
+## Seattle Aquarium
+The waterfront is just down the block from Pike Place and it too has its share of violent homeless people. Just walking to the aquarium from the nearby parking garage you will undoubtedly pass many homeless people that are a potential threat. There’s no safe place to sit because the benches are occupied by drugged-out mentally-ill homeless people asking for change. The kids can’t run along the pier because of these unsavory characters. Nearby businesses like the Alaskan Sourdough Bakery and the Seattle Great Wheel should also care about the safety of their customers and should do everything in their power to provide a safe atmosphere.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+What could those businesses do? Easy! Raise their already high prices and hire private security officers. Pay them a good living wage. Hire the best of the best. Make the job attractive and desirable. There’s no shortage of customers willing to pay a few dollars more for a ticket to the aquarium or ferris wheel, or even fifty more cents for a pastry. The security guards would walk along the pier, in and out of businesses, enforce no loitering rules, encourage the homeless to take a hike, call the cops when needed, and make people safer.
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+## Parking Garages
+No difference here. These garages are always full. There’s no shortage of revenue or potential customers. Raise prices. Hire security guards to walk up and down the parking facilities, check the elevators, check the stairwells, patrol the entrances and exits, etc. These would be valuable jobs, and people would appreciate the security officers as well as pay them handsomely for their safety.
 
-### Some great subheading (h3)
+## Bottom Line? If You’re a Tourist – Go Elsewhere
+These businesses, venues, and attractions do not deserve your business. They do not provide you with a safe atmosphere. Furthermore, the city doesn’t deserve your revenue either. The politicians have cut funding and neutered the police force. Thus insuring that the city police will not provide a safe and welcoming place for your visit. Instead, consider visiting other Pacific Northwest destinations like Whidbey Island, Tacoma (which has some problems, but not anywhere near Seattle’s), Bellevue, or any number of the surrounding areas for shopping, dining, and tourism.
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Be safe. Protect your family.
 
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Highlight the code please!!
-
-{% highlight c %}
-float Q_rsqrt( float number )
-{
-	long i;
-	float x2, y;
-	const float threehalfs = 1.5F;
-
-	x2 = number * 0.5F;
-	y  = number;
-	i  = * ( long * ) &y;                       // evil floating point bit level hacking
-	i  = 0x5f3759df - ( i >> 1 );               // what the fuck? 
-	y  = * ( float * ) &i;
-	y  = y * ( threehalfs - ( x2 * y * y ) );   // 1st iteration
-//	y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, this can be removed
-
-	return y;
-}
-{% endhighlight %}
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Tables
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+Boycott Seattle.
