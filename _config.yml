@@ -12,7 +12,7 @@ name: Boycott Seattle
 description: Until it's safe to enjoy a normal family outing in Seattle, we all need to do our part to put pressure on the city and politicians. Boycott Seattle.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-https://raw.githubusercontent.com/boycottseattle/forever-jekyll/main/assets/image/No.png
+avatar: /assets/image/No.png
 
 #
 # Flags below are optional
